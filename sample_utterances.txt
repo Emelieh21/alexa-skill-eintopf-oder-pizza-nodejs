@@ -1,0 +1,2 @@
+GetNewFactIntent {itemOne} oder {itemTwo}
+GetNewFactIntent für {itemOne} oder {itemTwo}

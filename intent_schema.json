@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewFactIntent",
+      "slots": [
+                {
+                    "name": "itemOne",
+                    "type": "LIST_OF_ITEMS_ONE"
+                },
+              	{
+                    "name": "itemTwo",
+                    "type": "LIST_OF_ITEMS_ONE" 
+              	}
+            ]
+        },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

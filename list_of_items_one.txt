@@ -1,0 +1,218 @@
+eintopf
+pizza
+tapas
+grießpudding
+sauerkraut
+kartoffelnsalat
+apfel
+banana
+erdberen
+himmberen
+trauben
+clementinen
+indisch
+pakistanisch
+Chinesisch
+Französisch
+Portugiesisch
+südamerikanisch
+orientalisch
+cebiche
+melone
+honigmelone
+paneer shahi
+butterfisch
+butter
+gesalzen
+ungesalzen
+sashimi
+pommes
+pommes frites
+klein
+groß
+yoghurt
+musli
+slagsahne
+kaffee
+tee
+heiße chocolade
+bratwurst
+currywurst
+weißwurst
+flammkuchen
+durum kebab
+durum
+kebab
+falafel
+halloumi
+scharfe soße
+knoblauch soße
+soße
+keine soße
+ja
+nein
+nicht
+nicht scharf
+süße
+schnitzel
+wiener schnitzel
+paniertes Kalbsschnitzel
+Cordon bleu
+Schinken
+Schnitzel Holstein
+Fischcanapés
+Piccata
+Kalbsschnitzel
+Zitrone
+Petersilie
+Piccata milanese
+Hartkäse-Semmel-Mischung
+Makkaroni
+Saltimbocca alla romana
+Salbeiblatt
+Berliner Schnitzel
+Kuheuter
+Fleisch
+Fisch
+Gemüse
+brot
+milch
+obst
+Schnitzel Wiener Art
+Schweineschnitzel
+Hähnchenschnitzel
+Pariser Schnitzel
+Schnitzel à la Meyer
+Hamburger Schnitzel
+Holsteiner Schnitzel
+Schweineschnitzel 
+Spiegelei
+Röstzwiebeln
+Jägerschnitzel
+Pilzsauce
+Jagdwurst
+Tomatensauce
+Ketchup
+mayonaise
+Zigeunerschnitzel
+Zigeunersauce
+Schnitzel Hawaii
+Ananas
+Käse
+Toast 
+Hawaii
+Schnitzel Elsässer Art
+Speck
+Zwiebeln
+Creme Fraiche
+Schnitzel Spreewälder Art
+paniertes Schweineschnitzel
+Kochkäseschnitzel
+paniertes Schweineschnitzel mit Kochkäse
+Kotelett
+Schweinekamm
+Steak
+pizza diabolo
+pizza tonno
+pizza quattro stagioni
+pizza quatro formagi
+diabolo
+tonno
+quattro stagioni
+quattro formagi
+pide
+hänchendöner
+putenschnitzel
+gulash
+bratkartoffeln
+Kartoffelpüree
+rookworst von hema
+borrelnootjes
+drop
+pepernoten
+snoepjes
+kartoffeln
+nudeln
+reis
+curry
+currysoße
+chicken curry
+lamm
+lamm curry
+tandoori chicken
+burrito
+taco
+salat
+Tomaten
+gurke
+Sandwich
+pasta
+pasta bolognese
+pasta carbonara
+pasta salmone
+picant
+knoblauch
+knoblauch naan
+naan
+patatas bravas
+pizza salami
+salami
+Tunfisch
+lachs
+avocado
+sushi
+hageslag
+honig
+orangensaft
+wodka
+gin
+wiskey
+wein
+weißwein
+rotwein
+rosé
+bier
+hell bier
+dunkel bier
+weißbier
+special bier
+kalt
+warm
+salz
+pfeffer
+tequilla
+gin tonic
+wiskey cola
+jägermeister
+jagerbomb
+weiß
+schwarz
+grün
+blau
+rot
+rosa
+orange
+gelb
+braun
+grau
+pierogi
+pelmeni
+barsch
+pfannkuchen
+polnisch
+italienisch
+spanisch
+deutsch
+niederlandisch
+griechisch
+asiatisch
+afrikanisch
+russisch
+burger
+hamburger
+cheeseburger
+barbeque
+spezi
+cola
+limonade
+wasser
